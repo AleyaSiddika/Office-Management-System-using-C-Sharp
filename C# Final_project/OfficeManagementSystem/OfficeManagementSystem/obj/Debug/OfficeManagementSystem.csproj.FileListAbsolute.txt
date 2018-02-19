@@ -1,0 +1,48 @@
+F:\AIUB\Department Study\OOP2\Final_project\OfficeManagementSystem\OfficeManagementSystem\bin\Debug\OfficeManagementSystem.exe.config
+F:\AIUB\Department Study\OOP2\Final_project\OfficeManagementSystem\OfficeManagementSystem\bin\Debug\OfficeManagementSystem.exe
+F:\AIUB\Department Study\OOP2\Final_project\OfficeManagementSystem\OfficeManagementSystem\bin\Debug\OfficeManagementSystem.pdb
+F:\AIUB\Department Study\OOP2\Final_project\OfficeManagementSystem\OfficeManagementSystem\obj\Debug\OfficeManagementSystem.csprojResolveAssemblyReference.cache
+F:\AIUB\Department Study\OOP2\Final_project\OfficeManagementSystem\OfficeManagementSystem\obj\Debug\OfficeManagementSystem.AdminHome.resources
+F:\AIUB\Department Study\OOP2\Final_project\OfficeManagementSystem\OfficeManagementSystem\obj\Debug\OfficeManagementSystem.AdminLeaveManagement.resources
+F:\AIUB\Department Study\OOP2\Final_project\OfficeManagementSystem\OfficeManagementSystem\obj\Debug\OfficeManagementSystem.AdminLogin.resources
+F:\AIUB\Department Study\OOP2\Final_project\OfficeManagementSystem\OfficeManagementSystem\obj\Debug\OfficeManagementSystem.AllReport.resources
+F:\AIUB\Department Study\OOP2\Final_project\OfficeManagementSystem\OfficeManagementSystem\obj\Debug\OfficeManagementSystem.CreateAccountForAdmin.resources
+F:\AIUB\Department Study\OOP2\Final_project\OfficeManagementSystem\OfficeManagementSystem\obj\Debug\OfficeManagementSystem.EmpAttendence.resources
+F:\AIUB\Department Study\OOP2\Final_project\OfficeManagementSystem\OfficeManagementSystem\obj\Debug\OfficeManagementSystem.EmpExperience.resources
+F:\AIUB\Department Study\OOP2\Final_project\OfficeManagementSystem\OfficeManagementSystem\obj\Debug\OfficeManagementSystem.EmpLeave.resources
+F:\AIUB\Department Study\OOP2\Final_project\OfficeManagementSystem\OfficeManagementSystem\obj\Debug\OfficeManagementSystem.EmpSalary.resources
+F:\AIUB\Department Study\OOP2\Final_project\OfficeManagementSystem\OfficeManagementSystem\obj\Debug\OfficeManagementSystem.EmpShift.resources
+F:\AIUB\Department Study\OOP2\Final_project\OfficeManagementSystem\OfficeManagementSystem\obj\Debug\OfficeManagementSystem.Form1.resources
+F:\AIUB\Department Study\OOP2\Final_project\OfficeManagementSystem\OfficeManagementSystem\obj\Debug\OfficeManagementSystem.LeaveApplicant.resources
+F:\AIUB\Department Study\OOP2\Final_project\OfficeManagementSystem\OfficeManagementSystem\obj\Debug\OfficeManagementSystem.Properties.Resources.resources
+F:\AIUB\Department Study\OOP2\Final_project\OfficeManagementSystem\OfficeManagementSystem\obj\Debug\OfficeManagementSystem.csproj.GenerateResource.Cache
+F:\AIUB\Department Study\OOP2\Final_project\OfficeManagementSystem\OfficeManagementSystem\obj\Debug\OfficeManagementSystem.exe
+F:\AIUB\Department Study\OOP2\Final_project\OfficeManagementSystem\OfficeManagementSystem\obj\Debug\OfficeManagementSystem.pdb
+F:\AIUB\Department Study\OOP2\Final_project\OfficeManagementSystem\OfficeManagementSystem\obj\Debug\OfficeManagementSystem.EmailSend.resources
+F:\AIUB\Department Study\OOP2\C# Final_project\OfficeManagementSystem\OfficeManagementSystem\bin\Debug\OfficeManagementSystem.exe.config
+F:\AIUB\Department Study\OOP2\C# Final_project\OfficeManagementSystem\OfficeManagementSystem\obj\Debug\OfficeManagementSystem.exe
+F:\AIUB\Department Study\OOP2\C# Final_project\OfficeManagementSystem\OfficeManagementSystem\obj\Debug\OfficeManagementSystem.pdb
+F:\AIUB\Department Study\OOP2\C# Final_project\OfficeManagementSystem\OfficeManagementSystem\bin\Debug\OfficeManagementSystem.exe
+F:\AIUB\Department Study\OOP2\C# Final_project\OfficeManagementSystem\OfficeManagementSystem\bin\Debug\OfficeManagementSystem.pdb
+F:\AIUB\Department Study\OOP2\C# Final_project\OfficeManagementSystem\OfficeManagementSystem\obj\Debug\OfficeManagementSystem.csprojResolveAssemblyReference.cache
+F:\AIUB\Department Study\OOP2\C# Final_project\OfficeManagementSystem\OfficeManagementSystem\obj\Debug\OfficeManagementSystem.AdminHome.resources
+F:\AIUB\Department Study\OOP2\C# Final_project\OfficeManagementSystem\OfficeManagementSystem\obj\Debug\OfficeManagementSystem.AdminLeaveManagement.resources
+F:\AIUB\Department Study\OOP2\C# Final_project\OfficeManagementSystem\OfficeManagementSystem\obj\Debug\OfficeManagementSystem.AdminLogin.resources
+F:\AIUB\Department Study\OOP2\C# Final_project\OfficeManagementSystem\OfficeManagementSystem\obj\Debug\OfficeManagementSystem.AllReport.resources
+F:\AIUB\Department Study\OOP2\C# Final_project\OfficeManagementSystem\OfficeManagementSystem\obj\Debug\OfficeManagementSystem.EmailSend.resources
+F:\AIUB\Department Study\OOP2\C# Final_project\OfficeManagementSystem\OfficeManagementSystem\obj\Debug\OfficeManagementSystem.EmpAttendence.resources
+F:\AIUB\Department Study\OOP2\C# Final_project\OfficeManagementSystem\OfficeManagementSystem\obj\Debug\OfficeManagementSystem.EmpExperience.resources
+F:\AIUB\Department Study\OOP2\C# Final_project\OfficeManagementSystem\OfficeManagementSystem\obj\Debug\OfficeManagementSystem.EmpLeave.resources
+F:\AIUB\Department Study\OOP2\C# Final_project\OfficeManagementSystem\OfficeManagementSystem\obj\Debug\OfficeManagementSystem.EmpSalary.resources
+F:\AIUB\Department Study\OOP2\C# Final_project\OfficeManagementSystem\OfficeManagementSystem\obj\Debug\OfficeManagementSystem.EmpShift.resources
+F:\AIUB\Department Study\OOP2\C# Final_project\OfficeManagementSystem\OfficeManagementSystem\obj\Debug\OfficeManagementSystem.Form1.resources
+F:\AIUB\Department Study\OOP2\C# Final_project\OfficeManagementSystem\OfficeManagementSystem\obj\Debug\OfficeManagementSystem.LeaveApplicant.resources
+F:\AIUB\Department Study\OOP2\C# Final_project\OfficeManagementSystem\OfficeManagementSystem\obj\Debug\OfficeManagementSystem.Properties.Resources.resources
+F:\AIUB\Department Study\OOP2\C# Final_project\OfficeManagementSystem\OfficeManagementSystem\obj\Debug\OfficeManagementSystem.csproj.GenerateResource.Cache
+F:\AIUB\Department Study\OOP2\C# Final_project\OfficeManagementSystem\OfficeManagementSystem\obj\Debug\OfficeManagementSystem.SignUpAdmin.resources
+F:\AIUB\Department Study\10th Semester\OOP2\C# Final_project\OfficeManagementSystem\OfficeManagementSystem\bin\Debug\OfficeManagementSystem.exe.config
+F:\AIUB\Department Study\10th Semester\OOP2\C# Final_project\OfficeManagementSystem\OfficeManagementSystem\obj\Debug\OfficeManagementSystem.exe
+F:\AIUB\Department Study\10th Semester\OOP2\C# Final_project\OfficeManagementSystem\OfficeManagementSystem\obj\Debug\OfficeManagementSystem.pdb
+F:\AIUB\Department Study\My Projects\C#\C# Final_project\OfficeManagementSystem\OfficeManagementSystem\bin\Debug\OfficeManagementSystem.exe.config
+F:\AIUB\Department Study\My Projects\C#\C# Final_project\OfficeManagementSystem\OfficeManagementSystem\obj\Debug\OfficeManagementSystem.exe
+F:\AIUB\Department Study\My Projects\C#\C# Final_project\OfficeManagementSystem\OfficeManagementSystem\obj\Debug\OfficeManagementSystem.pdb
